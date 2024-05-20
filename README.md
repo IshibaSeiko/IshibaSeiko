@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm Seiko Ishiba😁
-I'm an iOS Dev from Tokyo🗼 JAPAN🇯🇵
+I'm Seiko😸
+Working at Awarefy as a Flutter engineer📱
+
 
 <!--
 **IshibaSeiko/IshibaSeiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
