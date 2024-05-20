@@ -4,10 +4,10 @@ I'm Seiko😸
 Working at Awarefy as a Flutter engineer📱
 
 <a href="https://github.com/IshibaSeiko/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IshibaSeiko&theme=omni&show_icons=true" height=100/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IshibaSeiko&theme=omni&show_icons=true&count_private=true" height=100/>
 </a>
 <a href="https://github.com/IshibaSeiko/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshibaSeiko&layout=compact"  height=100/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshibaSeiko&layout=compact&count_private=true"  height=100/>
 </a>
 
 
