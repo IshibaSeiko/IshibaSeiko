@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-I'm Seiko😸
-Working at Awarefy as a Flutter engineer📱
+I'm Seiko 😸  
+A product-minded engineer who builds AI-powered software — from 0→1 design to shipping and iteration.
 
-<a href="https://github.com/IshibaSeiko/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IshibaSeiko&theme=omni&show_icons=true&count_private=true" height=100/>
-</a>
-<a href="https://github.com/IshibaSeiko/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshibaSeiko&layout=compact&count_private=true"  height=100/>
-</a>
-
-
+- 🧰 Tech: Flutter (Dart), iOS/Android, Go, TypeScript, Next.js, TanStack Query
+- 🔭 Focus: AI product development, chat/voice UX, rapid prototyping
+- ✨ Strengths: quick ramp-up, understanding & improving existing codebases
+- 🐱 Cat avatar, dog person 🐶
 
 <!--
 **IshibaSeiko/IshibaSeiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
